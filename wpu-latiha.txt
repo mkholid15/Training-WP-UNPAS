@@ -4,3 +4,6 @@ WPU LATIHAN UNPAS
 - Memahami css Layout
 - Memebuat website html dan css
 - latihan ekspert website
+- memahami dasar php
+- menggabungkan php pada website
+- memahami struktur data php pada website
