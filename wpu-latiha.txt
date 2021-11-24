@@ -2,3 +2,5 @@ WPU LATIHAN UNPAS
 - Memahami dasar html
 - Memahami dasar css
 - Memahami css Layout
+- Memebuat website html dan css
+- latihan ekspert website
